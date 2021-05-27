@@ -1,29 +1,28 @@
 {
   "name": "nodeit-",
   "version": "1.0.0",
-  "description": "this code was made with love",
-  "main": "app.js",
+  "description": "Working with donaldcrane and other developers on this project.",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/donaldcrane/nodeit-.git"
+    "url": "git+https://github.com/Tosin5S/nodeit-.git"
   },
-  "author": "",
+  "author": "x5s",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/donaldcrane/nodeit-/issues"
+    "url": "https://github.com/Tosin5S/nodeit-/issues"
   },
-  "homepage": "https://github.com/donaldcrane/nodeit-#readme",
-  "dependencies": {
-    "bcrypt": "^5.0.1",
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1"
-  },
-  "devDependencies": {
-    "cross-env": "^7.0.3",
-    "nodemon": "^2.0.7"
-  }
+  "homepage": "https://github.com/Tosin5S/nodeit-#readme"
 }
